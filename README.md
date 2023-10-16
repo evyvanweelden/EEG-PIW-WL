@@ -6,4 +6,5 @@ Using EEG and Pilot Inceptor Workload (PIW) to Quantify Pilots' Workload
 <br>*e.vanweelden@tilburguniversity.edu</br>
 
 eeglab_preprocessing.m is for the cleaning of EEG data.
+Prediction models EEG.ipynb contains RFE and classifiers for absolute and baseline-corrected EEG
 
