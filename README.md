@@ -6,7 +6,7 @@ Using EEG and Pilot Inceptor Workload (PIW) to Quantify Pilots' Workload (WL)
 <br>*e.vanweelden@tilburguniversity.edu</br>
 
 <br>"eeglab_preprocessing.m" is for the cleaning of EEG data.</br>
-<br>"Prediction models EEG.py" contains RFE and classifiers for absolute and baseline-corrected EEG.</br>
+<br>"Prediction models EEG.py" contains RFE and classifiers for absolute and baseline-corrected EEG spectral power features.</br>
 <br>"RFE and classifier with PIW.py" contains RFE and classifier for absolute EEG + PIW features.</br>
 
 <br></br>
