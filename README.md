@@ -1,5 +1,5 @@
 # EEG-PIW-WL
-Using EEG and Pilot Inceptor Workload (PIW) to Quantify Pilots' Workload
+Using EEG and Pilot Inceptor Workload (PIW) to Quantify Pilots' Workload (WL)
 
 <br>By Evy van Weelden* and Carl van Beek.
 <br>Affiliated with Tilburg University, Department of Cognitive Science & Artificial Intelligence.
